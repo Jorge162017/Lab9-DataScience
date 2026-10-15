@@ -1,0 +1,7 @@
+# Materiales y resultados que se conservan locales
+/Lab1-DataScience/
+/recursos_lab9/
+/imagenes/
+/Infografia_Lab9.*
+__pycache__/
+.DS_Store
